@@ -1,0 +1,10 @@
+git branch -> didani branch-ho
+git branch Azim -> creating Azim branch
+git checkout Azim -> switching to Azim branch
+git switch Azim -> switching to Azim branch
+git checkout -b Azim -> creating and switching to Azim branch
+git switch -c Azim -> creating and switching to Azim branch
+git push -u origin nomiBranch 
+Type of branches:
+Local Branch -> dar  git
+Origin Branch -> dar github
