@@ -4,7 +4,11 @@ git checkout Azim -> switching to Azim branch
 git switch Azim -> switching to Azim branch
 git checkout -b Azim -> creating and switching to Azim branch
 git switch -c Azim -> creating and switching to Azim branch
-git push -u origin nomiBranch 
+git push -u
+
+git pull -> baroi change giriftan az origin hamun branch 
+git pull origin nomiBranch-> baroi change giriftan az origin digari branch 
+
 Type of branches:
 Local Branch -> dar  git
 Origin Branch -> dar github
